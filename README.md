@@ -7,6 +7,6 @@ COMP 232 Mini project
 - PHP
 
 ## Database 
--Mysql
+- Mysql
 
 This is an domestic airline booking management system 
